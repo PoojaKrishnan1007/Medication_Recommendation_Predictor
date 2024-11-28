@@ -5,7 +5,7 @@
 A medication recommendation algorithm assists in predicting the appropriate medicine based on the patient's medical condition while also considering other demographic factors. The dataset for this system includes the following columns:
 
  *Input*
- 
+
 1. Age: The age of the patient.
 2. Gender: The gender of the patient.
 3. Blood Type: The blood group of the patient (e.g., A+, A-, etc.).
